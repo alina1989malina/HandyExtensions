@@ -1,0 +1,22 @@
+{
+  "name": "HandyExtensions",
+  "version": "0.1.0",
+  "summary": "A short description of HandyExtensions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/alina1989malina/HandyExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alina1989malina": "alina1989malina@ya.ru"
+  },
+  "source": {
+    "git": "https://github.com/alina1989malina/HandyExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HandyExtensions/Classes/**/*"
+}

@@ -32,6 +32,8 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'HandyExtensions/Classes/**/*'
   
+  s.swift_version = '5.0'
+  
   # s.resource_bundles = {
   #   'HandyExtensions' => ['HandyExtensions/Assets/*.png']
   # }

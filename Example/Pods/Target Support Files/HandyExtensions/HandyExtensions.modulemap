@@ -1,0 +1,6 @@
+framework module HandyExtensions {
+  umbrella header "HandyExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
